@@ -5,7 +5,7 @@ EMAIL="huangyuzc@gmail.com"   # 登录邮箱
 PASSWORD="QYt@900921"     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
-URLS="https://qinyutong.cfapps.us10-001.hana.ondemand.com https://free-ussgtfds.cfapps.us10-001.hana.ondemand.com https://free-usvvphxp.cfapps.us10-001.hana.ondemand.com https://free-uslkcolc.cfapps.us10-001.hana.ondemand.com https://free-ushiejgh.cfapps.us10-001.hana.ondemand.com"  
+URLS="https://QWE.cfapps.ap21.hana.ondemand.com＂
 
 # 颜色定义
 green() {
