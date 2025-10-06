@@ -5,8 +5,7 @@ EMAIL="huangyuzc@gmail.com"   # 登录邮箱
 PASSWORD="QYt@900921"     # 登录密码
 
 # 要保活的URL列表,多个用英文空格分隔
-URLS="https://QWE.cfapps.ap21.hana.ondemand.com＂
-
+URLS="https://QWE.cfapps.ap21.hana.ondemand.com" "https://QYT.cert.cfapps.us10-001.hana.ondemand.com"
 # 颜色定义
 green() {
     echo -e "\e[1;32m$1\033[0m"
